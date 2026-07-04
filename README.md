@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Snowi Vault
-=======
 # ❄️ Snowi Vault
 
 A personal vault of coding problems solved across various platforms — LeetCode, Codewars, HackerRank, and more. This repo tracks my problem-solving journey, the patterns I've learned, and my progress over time.
@@ -48,7 +45,4 @@ Recurring patterns, templates, and cheat sheets (sliding window, two pointers, D
 - [ ] Cover all major DSA topics
 - [ ] Revisit and optimize old solutions
 
----
-
 ⭐ This vault grows one problem at a time.
->>>>>>> f00daaa46465229cb3a32c0db06613c3ad56e3b4
